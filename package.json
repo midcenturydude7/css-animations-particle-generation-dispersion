@@ -3,11 +3,12 @@
   "version": "1.0.0",
   "description": "A simple project to demonstrate particle generation with dispersion using HTML, CSS, and JavaScript.",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview",
-    "serve": "python3 -main -m http.server 8000",
+    "serve": "python3 -m http.server 8000",
     "test": "echo 'No tests specified' && exit 0"
   },
   "keywords": [
