@@ -1,0 +1,30 @@
+{
+  "name": "particle-generation-dispersion",
+  "version": "1.0.0",
+  "description": "A simple project to demonstrate particle generation with dispersion using HTML, CSS, and JavaScript.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "serve": "python3 -main -m http.server 8000",
+    "test": "echo 'No tests specified' && exit 0"
+  },
+  "keywords": [
+    "particles",
+    "dispersion",
+    "javascript",
+    "html",
+    "css",
+    "animation"
+  ],
+  "author": "midcenturydude7",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "live-server": "^1.2.1",
+    "vite": "^6.3.6"
+  }
+}
